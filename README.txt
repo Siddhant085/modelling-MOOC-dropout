@@ -1,8 +1,6 @@
-0.  Team Name    - BR212 
-    Team Number  - 11
-    Team Members - Pratul Ramkumar 01FB14ECS162 Setion 'C'
-                 - Siddhant Gupta  01FB14ECS240 Setion 'D'
-                 - Yash Agarwal    01Fb14ECS295 Setion 'E'
+0.  Team Members - Pratul Ramkumar 01FB14ECS162
+                 - Siddhant Gupta  01FB14ECS240
+                 - Yash Agarwal    01Fb14ECS295
 
     Topic        - Predicting MOOC Dropouts
 
