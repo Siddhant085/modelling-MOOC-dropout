@@ -1,6 +1,6 @@
-0.  Team Members - Pratul Ramkumar 01FB14ECS162
-                 - Siddhant Gupta  01FB14ECS240
-                 - Yash Agarwal    01Fb14ECS295
+0.  Team Members - Pratul Ramkumar
+                 - Siddhant Gupta
+                 - Yash Agarwal
 
     Topic        - Predicting MOOC Dropouts
 
